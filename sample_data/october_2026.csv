@@ -1,0 +1,13 @@
+date,type,amount,category,note
+2026-10-01,income,2100.00,salary,Monthly pay
+2026-10-02,expense,650.00,rent,October rent
+2026-10-03,expense,54.20,groceries,Weekly shop
+2026-10-05,expense,28.50,transport,Bus pass top-up
+2026-10-09,expense,61.75,groceries,Weekly shop
+2026-10-11,expense,24.00,eating out,Dinner
+2026-10-12,expense,9.99,subscriptions,Streaming
+2026-10-15,income,120.00,freelance,Weekend tutoring
+2026-10-16,expense,58.30,groceries,Weekly shop
+2026-10-20,expense,42.00,eating out,Birthday meal
+2026-10-23,expense,63.10,groceries,Weekly shop
+2026-10-25,expense,15.00,transport,Train to London
