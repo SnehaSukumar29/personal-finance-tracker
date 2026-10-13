@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "finance-tracker"
+version = "1.0.0"
+description = "Command-line personal finance tracker with budgets, reports and safe CSV import/export"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [{ name = "Sneha Sukumar" }]
+dependencies = []
+
+[project.scripts]
+finance-tracker = "finance_tracker.cli:main"
+
+[tool.setuptools]
+packages = ["finance_tracker"]
